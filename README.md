@@ -1,7 +1,7 @@
 # RSA
 RSA解密工具介绍：
 
-![image-20240501204019153](D:\RSA\image-20240501204019153.png)
+![](https://img2.imgtp.com/2024/05/01/AJMQXNGF.png "")
 
 十几种攻击模板，平时写CTF板子题使用，使用python编写，无多线程爆破解密会卡死
 
